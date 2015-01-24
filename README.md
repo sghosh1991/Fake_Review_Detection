@@ -30,3 +30,6 @@ A quantitive comparison of different classfication techniques and feature select
 techniques that gives best resulyts for the dataset.
 
 This project contains a complete report and a short presentation of our findings.
+
+Presentation Link: https://www.dropbox.com/s/4y9v5fn1md517t5/Data%20Mining%20Presentations.pptx?dl=0
+ReportLink: https://www.dropbox.com/s/7ohozv868yivo5f/Data%20Mining%20Project%20Report.pdf?dl=0
